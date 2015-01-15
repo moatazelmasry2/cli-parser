@@ -1,0 +1,23 @@
+{
+  "name": "cli-parser",
+  "version": "0.0.0",
+  "description": "A javascript CLI parser library that works on nodejs and in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moatazelmasry2/cli-parser.git"
+  },
+  "keywords": [
+    "cli",
+    "parser",
+    "nodejs"
+  ],
+  "author": "Moataz Elmasry <moataz.elmasry2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moatazelmasry2/cli-parser/issues"
+  }
+}
